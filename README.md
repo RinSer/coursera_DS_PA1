@@ -3,7 +3,6 @@
 # Programming Assignment 1: Air Pollution
 
 ## Data
-The zip file containing the data can be downloaded here:
 
     specdata.zip [2.4MB] 
 
